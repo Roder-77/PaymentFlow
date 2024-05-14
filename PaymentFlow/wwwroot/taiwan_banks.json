@@ -1,0 +1,2426 @@
+[
+  {
+    "name": "臺灣銀行",
+    "bank_code": "004",
+    "branch_code": "0000",
+    "site": "http:\/\/www.bot.com.tw\/Pages\/default.aspx"
+  },
+  {
+    "name": "土地銀行",
+    "bank_code": "005",
+    "branch_code": "0000",
+    "site": "http:\/\/www.landbank.com.tw\/"
+  },
+  {
+    "name": "合作金庫銀行",
+    "bank_code": "006",
+    "branch_code": "0000",
+    "site": "http:\/\/www.tcb-bank.com.tw\/Pages\/Default.aspx"
+  },
+  {
+    "name": "第一銀行",
+    "bank_code": "007",
+    "branch_code": "0000",
+    "site": "http:\/\/www.firstbank.com.tw\/"
+  },
+  {
+    "name": "華南銀行",
+    "bank_code": "008",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hncb.com.tw\/"
+  },
+  {
+    "name": "彰化銀行",
+    "bank_code": "009",
+    "branch_code": "0000",
+    "site": "https:\/\/www.chb.com.tw\/wcm\/web\/home\/index.html"
+  },
+  {
+    "name": "上海儲蓄銀行",
+    "bank_code": "011",
+    "branch_code": "0000",
+    "site": "http:\/\/www.scsb.com.tw\/"
+  },
+  {
+    "name": "台北富邦銀行",
+    "bank_code": "012",
+    "branch_code": "0000",
+    "site": "https:\/\/www.fubon.com\/financial\/home\/index.htm"
+  },
+  {
+    "name": "國泰世華銀行",
+    "bank_code": "013",
+    "branch_code": "0000",
+    "site": "https:\/\/www.cathaybk.com.tw\/cathaybk\/"
+  },
+  {
+    "name": "高雄銀行",
+    "bank_code": "016",
+    "branch_code": "0000",
+    "site": "https:\/\/www.bok.com.tw\/welcome"
+  },
+  {
+    "name": "兆豐國際銀行",
+    "bank_code": "017",
+    "branch_code": "0000",
+    "site": "https:\/\/www.megabank.com.tw\/"
+  },
+  {
+    "name": "全國農業金庫",
+    "bank_code": "018",
+    "branch_code": "0000",
+    "site": "http:\/\/www.agribank.com.tw\/"
+  },
+  {
+    "name": "日商瑞穗實業銀行",
+    "bank_code": "020",
+    "branch_code": "0000",
+    "site": "http:\/\/www.mizuhobank.co.jp\/index.html"
+  },
+  {
+    "name": "花旗(台灣)銀行",
+    "bank_code": "021",
+    "branch_code": "0000",
+    "site": "http:\/\/www.citibank.com.tw\/sim\/index.htm"
+  },
+  {
+    "name": "美商美國銀行",
+    "bank_code": "022",
+    "branch_code": "0000",
+    "site": ""
+  },
+  {
+    "name": "泰國盤谷銀行",
+    "bank_code": "023",
+    "branch_code": "0000",
+    "site": "http:\/\/www.bbl.com.tw\/"
+  },
+  {
+    "name": "王道銀行",
+    "bank_code": "048",
+    "branch_code": "0000",
+    "site": "http:\/\/www.ibt.com.tw\/"
+  },
+  {
+    "name": "台灣中小企業銀行",
+    "bank_code": "050",
+    "branch_code": "0000",
+    "site": "http:\/\/www.tbb.com.tw\/wps\/wcm\/connect\/TBBInternet"
+  },
+  {
+    "name": "渣打國際銀行",
+    "bank_code": "052",
+    "branch_code": "0000",
+    "site": "https:\/\/www.sc.com\/tw\/"
+  },
+  {
+    "name": "台中銀行",
+    "bank_code": "053",
+    "branch_code": "0000",
+    "site": "https:\/\/www.tcbbank.com.tw\/"
+  },
+  {
+    "name": "京城銀行",
+    "bank_code": "054",
+    "branch_code": "0000",
+    "site": "http:\/\/www.ktb.com.tw\/"
+  },
+  {
+    "name": "匯豐(台灣)銀行",
+    "bank_code": "081",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hsbc.com.tw\/1\/2\/home_zh_TW"
+  },
+  {
+    "name": "瑞興銀行",
+    "bank_code": "101",
+    "branch_code": "0000",
+    "site": "https:\/\/www.bankoftaipei.com.tw\/"
+  },
+  {
+    "name": "華泰銀行",
+    "bank_code": "102",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hwataibank.com.tw\/hwatai\/index.jsp"
+  },
+  {
+    "name": "臺灣新光銀行",
+    "bank_code": "103",
+    "branch_code": "0000",
+    "site": "https:\/\/www.skbank.com.tw\/"
+  },
+  {
+    "name": "台北市第五信用合作社",
+    "bank_code": "104",
+    "branch_code": "0000",
+    "site": "http:\/\/www.taipei-tfcc.com.tw\/"
+  },
+  {
+    "name": "陽信銀行",
+    "bank_code": "108",
+    "branch_code": "0000",
+    "site": "http:\/\/www.sunnybank.com.tw\/\/"
+  },
+  {
+    "name": "基隆市第一信用合作社",
+    "bank_code": "114",
+    "branch_code": "0000",
+    "site": "http:\/\/www.kfcc.com.tw\/"
+  },
+  {
+    "name": "基隆市第二信用合作社",
+    "bank_code": "115",
+    "branch_code": "0000",
+    "site": "http:\/\/www.kscc.com.tw\/"
+  },
+  {
+    "name": "板信銀行",
+    "bank_code": "118",
+    "branch_code": "0000",
+    "site": "http:\/\/www.bop.com.tw\/"
+  },
+  {
+    "name": "淡水第一信合社",
+    "bank_code": "119",
+    "branch_code": "0000",
+    "site": "http:\/\/www.tfccbank.com.tw\/"
+  },
+  {
+    "name": "新北市淡水信用合作社",
+    "bank_code": "120",
+    "branch_code": "0000",
+    "site": "http:\/\/www.tscbank.com.tw\/"
+  },
+  {
+    "name": "宜蘭信用合作社",
+    "bank_code": "124",
+    "branch_code": "0000",
+    "site": "http:\/\/ilan.scu.org.tw\/index.htm"
+  },
+  {
+    "name": "桃園信用合作社",
+    "bank_code": "127",
+    "branch_code": "0000",
+    "site": "http:\/\/www.tycbank.com.tw\/"
+  },
+  {
+    "name": "新竹第一信用合作社",
+    "bank_code": "130",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hcfcbank.com.tw\/"
+  },
+  {
+    "name": "新竹第三信用合作社",
+    "bank_code": "132",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hc3cbank.com.tw\/"
+  },
+  {
+    "name": "台中市第二信用合作社",
+    "bank_code": "146",
+    "branch_code": "0000",
+    "site": "http:\/\/www.tsca.com.tw\/"
+  },
+  {
+    "name": "三信銀行",
+    "bank_code": "147",
+    "branch_code": "0000",
+    "site": "http:\/\/www.cotabank.com.tw\/index.html"
+  },
+  {
+    "name": "彰化第一信用合作社",
+    "bank_code": "158",
+    "branch_code": "0000",
+    "site": "http:\/\/chfc.scu.org.tw\/"
+  },
+  {
+    "name": "彰化第五信用合作社",
+    "bank_code": "161",
+    "branch_code": "0000",
+    "site": "http:\/\/fs161.scu.org.tw\/"
+  },
+  {
+    "name": "彰化第六信用合作社",
+    "bank_code": "162",
+    "branch_code": "0000",
+    "site": "http:\/\/www.ch6c.com.tw\/"
+  },
+  {
+    "name": "彰化第十信用合作社",
+    "bank_code": "163",
+    "branch_code": "0000",
+    "site": "http:\/\/www.ch10c.com.tw\/"
+  },
+  {
+    "name": "彰化縣鹿港信用合作社",
+    "bank_code": "165",
+    "branch_code": "0000",
+    "site": "http:\/\/www.lkbank.com.tw\/"
+  },
+  {
+    "name": "嘉義市第三信用合作社",
+    "bank_code": "178",
+    "branch_code": "0000",
+    "site": "http:\/\/chiayi3c.scu.org.tw\/"
+  },
+  {
+    "name": "台南第三信用合作社",
+    "bank_code": "188",
+    "branch_code": "0000",
+    "site": "http:\/\/ttc.scu.org.tw\/index.htm"
+  },
+  {
+    "name": "高雄市第三信用合作社",
+    "bank_code": "204",
+    "branch_code": "0000",
+    "site": "http:\/\/www.kh3c.com.tw\/"
+  },
+  {
+    "name": "花蓮第一信用合作社",
+    "bank_code": "215",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hua215.com.tw\/"
+  },
+  {
+    "name": "花蓮第二信用合作社",
+    "bank_code": "216",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hl2c.com.tw\/"
+  },
+  {
+    "name": "澎湖縣第一信用合作社",
+    "bank_code": "222",
+    "branch_code": "0000",
+    "site": "http:\/\/www.pfcco.scu.org.tw\/"
+  },
+  {
+    "name": "澎湖第二信用合作社",
+    "bank_code": "223",
+    "branch_code": "0000",
+    "site": "http:\/\/ph2c.scu.org.tw\/"
+  },
+  {
+    "name": "金門縣信用合作社",
+    "bank_code": "224",
+    "branch_code": "0000",
+    "site": "http:\/\/kinmen.scu.org.tw\/index.htm"
+  },
+  {
+    "name": "菲律賓首都銀行",
+    "bank_code": "250",
+    "branch_code": "000",
+    "site": "http:\/\/www.metrobank.com.tw\/"
+  },
+  {
+    "name": "美國紐約梅隆銀行",
+    "bank_code": "280",
+    "branch_code": "000",
+    "site": "https:\/\/www.bnymellon.com\/"
+  },
+  {
+    "name": "新加坡大華銀行",
+    "bank_code": "290",
+    "branch_code": "000",
+    "site": "http:\/\/www.uobgroup.com\/"
+  },
+  {
+    "name": "美商道富銀行",
+    "bank_code": "300",
+    "branch_code": "000",
+    "site": "http:\/\/www.statestreet.com\/home.html"
+  },
+  {
+    "name": "日商三井住友銀行",
+    "bank_code": "321",
+    "branch_code": "0000",
+    "site": "http:\/\/www.smbc.co.jp\/"
+  },
+  {
+    "name": "美商花旗銀行",
+    "bank_code": "324",
+    "branch_code": "0000",
+    "site": "http:\/\/www.citibank.com.tw\/sim\/index.htm"
+  },
+  {
+    "name": "香港上海匯豐銀行",
+    "bank_code": "325",
+    "branch_code": "0000",
+    "site": "http:\/\/www.hsbc.com.tw\/1\/2\/"
+  },
+  {
+    "name": "西班牙商西班牙對外銀行",
+    "bank_code": "326",
+    "branch_code": "0000",
+    "site": "http:\/\/www.bbva.com.tw\/"
+  },
+  {
+    "name": "澳商澳盛銀行",
+    "bank_code": "327",
+    "branch_code": "0000",
+    "site": "http:\/\/anz.tw\/zh\/index.jsp"
+  },
+  {
+    "name": "法商法國外貿銀行",
+    "bank_code": "328",
+    "branch_code": "000",
+    "site": "https:\/\/apac.cib.natixis.com\/taiwan"
+  },
+  {
+    "name": "印尼商印尼人民銀行",
+    "bank_code": "329",
+    "branch_code": "000",
+    "site": "https:\/\/www.britaipei.com\/home"
+  },
+  {
+    "name": "韓商韓亞銀行",
+    "bank_code": "330",
+    "branch_code": "0000",
+    "site": "https:\/\/global.1qbank.com\/pb\/ma\/main?countryCode=TW"
+  },
+  {
+    "name": "法商法國興業銀行",
+    "bank_code": "370",
+    "branch_code": "000",
+    "site": "http:\/\/www.socgen.com.tw\/"
+  },
+  {
+    "name": "大陸商中國銀行",
+    "bank_code": "380",
+    "branch_code": "0000",
+    "site": "http:\/\/www.boc.cn\/big5\/index.html"
+  },
+  {
+    "name": "大陸商交通銀行",
+    "bank_code": "381",
+    "branch_code": "0000",
+    "site": ""
+  },
+  {
+    "name": "大陸商中國建設銀行",
+    "bank_code": "382",
+    "branch_code": "0000",
+    "site": "http:\/\/www.asia.ccb.com\/hongkong_tc\/personal\/"
+  },
+  {
+    "name": "宜蘭縣蘇澳區漁會",
+    "bank_code": "501",
+    "branch_code": "0017",
+    "site": "http:\/\/www.suaofish.org.tw\/p2.asp"
+  },
+  {
+    "name": "宜蘭縣頭城區漁會",
+    "bank_code": "502",
+    "branch_code": "0018",
+    "site": ""
+  },
+  {
+    "name": "桃園縣桃園區漁會",
+    "bank_code": "506",
+    "branch_code": "0012",
+    "site": "http:\/\/uic.efarm.org.tw\/tyfish\/"
+  },
+  {
+    "name": "新竹市新竹區漁會",
+    "bank_code": "507",
+    "branch_code": "0013",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDgTsKqUWAq9F+q2qHKM/uW"
+  },
+  {
+    "name": "苗栗縣通苑區漁會",
+    "bank_code": "508",
+    "branch_code": "0014",
+    "site": "http:\/\/tongyuann.etaiwanfish.com\/"
+  },
+  {
+    "name": "苗栗縣南龍區漁會",
+    "bank_code": "510",
+    "branch_code": "0019",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDgTsKqUWAq9F+q2qHKM/uW"
+  },
+  {
+    "name": "彰化縣彰化區漁會",
+    "bank_code": "511",
+    "branch_code": "0010",
+    "site": "http:\/\/www.fcic.org.tw\/890\/"
+  },
+  {
+    "name": "雲林縣雲林區漁會",
+    "bank_code": "512",
+    "branch_code": "0011",
+    "site": "http:\/\/www.ylfish.com.tw\/"
+  },
+  {
+    "name": "新北市瑞芳區漁會",
+    "bank_code": "513",
+    "branch_code": "0012",
+    "site": "http:\/\/rueifang.etaiwanfish.com\/"
+  },
+  {
+    "name": "新北市萬里區漁會",
+    "bank_code": "514",
+    "branch_code": "0013",
+    "site": "http:\/\/wanli.twefish.com.tw\/"
+  },
+  {
+    "name": "嘉義縣嘉義區漁會",
+    "bank_code": "515",
+    "branch_code": "0014",
+    "site": "http:\/\/www.fast.org.tw\/q51\/index.html"
+  },
+  {
+    "name": "基隆市基隆區漁會",
+    "bank_code": "516",
+    "branch_code": "0015",
+    "site": "http:\/\/klfish.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODVd17O+VXuss"
+  },
+  {
+    "name": "南市區漁會",
+    "bank_code": "517",
+    "branch_code": "0016",
+    "site": "http:\/\/www.fast.org.tw\/d50\/index.html"
+  },
+  {
+    "name": "南縣區漁會",
+    "bank_code": "518",
+    "branch_code": "0017",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODZCtFXouEPWR"
+  },
+  {
+    "name": "臺南市新化區農會",
+    "bank_code": "519",
+    "branch_code": "0018",
+    "site": "http:\/\/shfa.naffic.org.tw\/"
+  },
+  {
+    "name": "高雄區漁會",
+    "bank_code": "520",
+    "branch_code": "0012",
+    "site": "http:\/\/www.kfa.org.tw\/start.html"
+  },
+  {
+    "name": "高雄市小港區漁會",
+    "bank_code": "520",
+    "branch_code": "0023",
+    "site": "http:\/\/hsiaokang.etaiwanfish.com\/"
+  },
+  {
+    "name": "高雄市梓官區漁會",
+    "bank_code": "521",
+    "branch_code": "0116",
+    "site": ""
+  },
+  {
+    "name": "高雄市興達港區漁會",
+    "bank_code": "521",
+    "branch_code": "0024",
+    "site": "http:\/\/www.sdh.org.tw\/"
+  },
+  {
+    "name": "高雄市林園區漁會",
+    "bank_code": "521",
+    "branch_code": "0068",
+    "site": "http:\/\/linyuan.etaiwanfish.com\/"
+  },
+  {
+    "name": "高雄市彌陀區漁會",
+    "bank_code": "521",
+    "branch_code": "0079",
+    "site": "http:\/\/mito.etaiwanfish.com\/"
+  },
+  {
+    "name": "高雄市永安區漁會",
+    "bank_code": "521",
+    "branch_code": "0091",
+    "site": "http:\/\/www.yafa.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODdi+hZSSbdbH"
+  },
+  {
+    "name": "屏東縣琉球區漁會",
+    "bank_code": "523",
+    "branch_code": "0015",
+    "site": "http:\/\/www.fast.org.tw\/t52\/index.htm"
+  },
+  {
+    "name": "屏東縣東港區漁會",
+    "bank_code": "523",
+    "branch_code": "0037",
+    "site": "http:\/\/www.tkfisher.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODXH2pjBjmdrr"
+  },
+  {
+    "name": "屏東縣林邊區漁會",
+    "bank_code": "523",
+    "branch_code": "0048",
+    "site": ""
+  },
+  {
+    "name": "屏東縣枋寮區漁會",
+    "bank_code": "523",
+    "branch_code": "0130",
+    "site": "http:\/\/fangliao.twefish.com.tw\/"
+  },
+  {
+    "name": "台東縣新港區漁會",
+    "bank_code": "524",
+    "branch_code": "0016",
+    "site": "http:\/\/taitung.etaiwanfish.com\/"
+  },
+  {
+    "name": "澎湖縣澎湖區漁會",
+    "bank_code": "525",
+    "branch_code": "0017",
+    "site": ""
+  },
+  {
+    "name": "金門縣金門區漁會",
+    "bank_code": "526",
+    "branch_code": "0018",
+    "site": "http:\/\/www.kmfisher.org.tw\/aboutus-1.php"
+  },
+  {
+    "name": "宜蘭縣宜蘭市農會",
+    "bank_code": "538",
+    "branch_code": "0013",
+    "site": "http:\/\/www.ylfa.org.tw\/p2.php"
+  },
+  {
+    "name": "臺南市白河區農會",
+    "bank_code": "541",
+    "branch_code": "0019",
+    "site": "http:\/\/www.fcic.org.tw\/860\/html\/page1.htm"
+  },
+  {
+    "name": "臺南市麻豆區農會",
+    "bank_code": "542",
+    "branch_code": "0010",
+    "site": "http:\/\/www.madou.org.tw\/"
+  },
+  {
+    "name": "臺南市後壁區農會",
+    "bank_code": "547",
+    "branch_code": "0015",
+    "site": "http:\/\/www.fcic.org.tw\/880\/"
+  },
+  {
+    "name": "臺南市下營區農會",
+    "bank_code": "549",
+    "branch_code": "0017",
+    "site": "http:\/\/www.shiaying.com.tw\/"
+  },
+  {
+    "name": "臺南市官田區農會",
+    "bank_code": "551",
+    "branch_code": "0012",
+    "site": "http:\/\/ktfarm.twbbs.org\/index.htm"
+  },
+  {
+    "name": "臺南市大內區農會",
+    "bank_code": "552",
+    "branch_code": "0013",
+    "site": "http:\/\/www.fcic.org.tw\/710\/"
+  },
+  {
+    "name": "臺南市學甲區農會",
+    "bank_code": "556",
+    "branch_code": "0017",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCJctf5vXgyGi5s/XVpoQxm"
+  },
+  {
+    "name": "臺南市新市區農會",
+    "bank_code": "557",
+    "branch_code": "0018",
+    "site": "http:\/\/ssf.org.tw\/"
+  },
+  {
+    "name": "臺南市安定區農會",
+    "bank_code": "558",
+    "branch_code": "0019",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODWS1sLxU7OU0"
+  },
+  {
+    "name": "臺南市左鎮區農會",
+    "bank_code": "561",
+    "branch_code": "0015",
+    "site": "http:\/\/www.tso-farm.org.tw\/"
+  },
+  {
+    "name": "臺南市仁德區農會",
+    "bank_code": "562",
+    "branch_code": "0016",
+    "site": "http:\/\/jente.naffic.org.tw\/default2.aspx?EpfJdId9UuBtAWQNka145+pwn8Wjm/bG"
+  },
+  {
+    "name": "臺南市關廟區農會",
+    "bank_code": "564",
+    "branch_code": "0018",
+    "site": "http:\/\/www.guanmiao.com.tw\/"
+  },
+  {
+    "name": "臺南市龍崎區農會",
+    "bank_code": "565",
+    "branch_code": "0019",
+    "site": "http:\/\/www.longcifa.com\/"
+  },
+  {
+    "name": "臺南市南化區農會",
+    "bank_code": "567",
+    "branch_code": "0011",
+    "site": "http:\/\/www.nhfa.org.tw\/"
+  },
+  {
+    "name": "臺南市七股區農會",
+    "bank_code": "568",
+    "branch_code": "0012",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDNxO/lymW0E51XxiHGriKY"
+  },
+  {
+    "name": "南投縣南投市農會",
+    "bank_code": "570",
+    "branch_code": "0017",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuAsXUMmgmlARK6c1Kb1SjzM"
+  },
+  {
+    "name": "南投縣埔里鎮農會",
+    "bank_code": "573",
+    "branch_code": "0010",
+    "site": "http:\/\/www.pulifarm.org.tw\/"
+  },
+  {
+    "name": "南投縣竹山鎮農會",
+    "bank_code": "574",
+    "branch_code": "0011",
+    "site": "http:\/\/www.zsfa.org.tw\/main.asp"
+  },
+  {
+    "name": "南投縣中寮鄉農會",
+    "bank_code": "575",
+    "branch_code": "0012",
+    "site": "http:\/\/www.clfa.com.tw\/"
+  },
+  {
+    "name": "南投縣魚池鄉農會",
+    "bank_code": "577",
+    "branch_code": "0014",
+    "site": "http:\/\/www.fcic.org.tw\/260\/"
+  },
+  {
+    "name": "南投縣水里鄉農會",
+    "bank_code": "578",
+    "branch_code": "0015",
+    "site": "https:\/\/www.i-plum.com.tw\/"
+  },
+  {
+    "name": "南投縣國姓鄉農會",
+    "bank_code": "579",
+    "branch_code": "0016",
+    "site": "http:\/\/gx.org.tw\/"
+  },
+  {
+    "name": "南投縣鹿谷鄉農會",
+    "bank_code": "580",
+    "branch_code": "0010",
+    "site": "http:\/\/www.lugufa.org.tw\/"
+  },
+  {
+    "name": "南投縣信義鄉農會",
+    "bank_code": "581",
+    "branch_code": "0011",
+    "site": ""
+  },
+  {
+    "name": "南投縣仁愛鄉農會",
+    "bank_code": "582",
+    "branch_code": "0012",
+    "site": "http:\/\/www.renayvfa.com.tw\/default2.aspx?EpfJdId9UuBtAWQNka145+ahX3yAx8Sm"
+  },
+  {
+    "name": "臺南市東山區農會",
+    "bank_code": "583",
+    "branch_code": "0013",
+    "site": "http:\/\/www.dongshan.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣頭城鎮農會",
+    "bank_code": "585",
+    "branch_code": "0015",
+    "site": "http:\/\/www.touchen.org.tw\/p1.php?model=incV_1"
+  },
+  {
+    "name": "宜蘭縣羅東鎮農會",
+    "bank_code": "586",
+    "branch_code": "0016",
+    "site": "http:\/\/www.lotungfa.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣礁溪鄉農會",
+    "bank_code": "587",
+    "branch_code": "0017",
+    "site": "http:\/\/www.jsfa.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣壯圍鄉農會",
+    "bank_code": "588",
+    "branch_code": "0018",
+    "site": "http:\/\/www.jwfa.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣員山鄉農會",
+    "bank_code": "589",
+    "branch_code": "0019",
+    "site": "http:\/\/www.ysfa.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣五結鄉農會",
+    "bank_code": "596",
+    "branch_code": "0019",
+    "site": "http:\/\/www.wjfarm.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣蘇澳地區農會",
+    "bank_code": "598",
+    "branch_code": "0011",
+    "site": "http:\/\/www.suaofarmer.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣三星地區農會",
+    "bank_code": "599",
+    "branch_code": "0012",
+    "site": "http:\/\/www.sunshin.org.tw\/"
+  },
+  {
+    "name": "中華民國農會",
+    "bank_code": "602",
+    "branch_code": "0015",
+    "site": "http:\/\/www.farmer.org.tw\/"
+  },
+  {
+    "name": "高雄市高雄地區農會",
+    "bank_code": "605",
+    "branch_code": "0018",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDNxO/lymW0E887zaMeGcqo"
+  },
+  {
+    "name": "高雄市小港區農會",
+    "bank_code": "605",
+    "branch_code": "1336",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODbfCsnWUZUom"
+  },
+  {
+    "name": "新竹縣新豐鄉農會",
+    "bank_code": "610",
+    "branch_code": "0463",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=65"
+  },
+  {
+    "name": "苗栗縣銅鑼鄉農會",
+    "bank_code": "611",
+    "branch_code": "0109",
+    "site": "http:\/\/tolo-farmer.eyp.com.tw\/eyp\/front\/bin\/home.phtml"
+  },
+  {
+    "name": "臺中市豐原區農會",
+    "bank_code": "612",
+    "branch_code": "1107",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuA2OTk3x3xRf2W76keWijNw"
+  },
+  {
+    "name": "臺中市神岡區農會",
+    "bank_code": "612",
+    "branch_code": "1118",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCJctf5vXgyGgzvf0aJ5XBc"
+  },
+  {
+    "name": "南投縣集集鎮農會",
+    "bank_code": "613",
+    "branch_code": "0031",
+    "site": "http:\/\/www.jijifa.com.tw\/indexmain.php"
+  },
+  {
+    "name": "南投縣名間鄉農會",
+    "bank_code": "613",
+    "branch_code": "0075",
+    "site": "http:\/\/www.miji.org.tw\/home.asp"
+  },
+  {
+    "name": "彰化縣竹塘鄉農會",
+    "bank_code": "614",
+    "branch_code": "0261",
+    "site": ""
+  },
+  {
+    "name": "彰化縣芳苑鄉農會",
+    "bank_code": "614",
+    "branch_code": "1338",
+    "site": ""
+  },
+  {
+    "name": "彰化縣芬園鄉農會",
+    "bank_code": "614",
+    "branch_code": "1327",
+    "site": "http:\/\/www.fyfa.com.tw\/"
+  },
+  {
+    "name": "彰化縣埤頭鄉農會",
+    "bank_code": "614",
+    "branch_code": "0227",
+    "site": "http:\/\/www.pitou.org.tw\/"
+  },
+  {
+    "name": "彰化縣永靖鄉農會",
+    "bank_code": "614",
+    "branch_code": "0180",
+    "site": "http:\/\/1213.web66.com.tw\/"
+  },
+  {
+    "name": "彰化縣埔心鄉農會",
+    "bank_code": "614",
+    "branch_code": "0179",
+    "site": "http:\/\/www.fast.org.tw\/n17\/"
+  },
+  {
+    "name": "彰化縣秀水鄉農會",
+    "bank_code": "614",
+    "branch_code": "0124",
+    "site": "http:\/\/www.hsfarm.org.tw\/default2.aspx?EpfJdId9UuDNTO91R3HUNleLPygPwIYO"
+  },
+  {
+    "name": "彰化縣二林鎮農會",
+    "bank_code": "614",
+    "branch_code": "0087",
+    "site": "http:\/\/www.rlfa.org.tw\/"
+  },
+  {
+    "name": "彰化縣員林市農會",
+    "bank_code": "614",
+    "branch_code": "0043",
+    "site": "http:\/\/www.yuanlinfa.com.tw\/front\/index.php"
+  },
+  {
+    "name": "基隆市農會",
+    "bank_code": "615",
+    "branch_code": "0011",
+    "site": "http:\/\/www.keelungfa.com.tw\/"
+  },
+  {
+    "name": "雲林縣四湖鄉農會",
+    "bank_code": "616",
+    "branch_code": "0160",
+    "site": "http:\/\/www.sihu.org.tw\/home.asp"
+  },
+  {
+    "name": "雲林縣二崙鄉農會",
+    "bank_code": "616",
+    "branch_code": "0115",
+    "site": "http:\/\/www.erlun.org.tw\/index01.html"
+  },
+  {
+    "name": "雲林縣崙背鄉農會",
+    "bank_code": "616",
+    "branch_code": "0126",
+    "site": "http:\/\/www.fast.org.tw\/p12\/"
+  },
+  {
+    "name": "雲林縣臺西鄉農會",
+    "bank_code": "616",
+    "branch_code": "0137",
+    "site": "http:\/\/www.fast.org.tw\/p14\/"
+  },
+  {
+    "name": "雲林縣褒忠鄉農會",
+    "bank_code": "616",
+    "branch_code": "0148",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuAsXUMmgmlARHG6TAHWwkQV"
+  },
+  {
+    "name": "雲林縣古坑鄉農會",
+    "bank_code": "616",
+    "branch_code": "0078",
+    "site": "http:\/\/www.gkcafe.org.tw\/main.asp"
+  },
+  {
+    "name": "雲林縣口湖鄉農會",
+    "bank_code": "616",
+    "branch_code": "0171",
+    "site": "http:\/\/www.fast.org.tw\/p19\/index.asp"
+  },
+  {
+    "name": "雲林縣斗南鎮農會",
+    "bank_code": "616",
+    "branch_code": "0056",
+    "site": "http:\/\/www.dnf.org.tw\/"
+  },
+  {
+    "name": "雲林縣西螺鎮農會",
+    "bank_code": "616",
+    "branch_code": "0034",
+    "site": "http:\/\/slofa.org\/"
+  },
+  {
+    "name": "雲林縣虎尾鎮農會",
+    "bank_code": "616",
+    "branch_code": "0023",
+    "site": "http:\/\/www.hwfa.org.tw\/"
+  },
+  {
+    "name": "雲林縣斗六市農會",
+    "bank_code": "616",
+    "branch_code": "0012",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuBIv3eVWA4HDRyEoyGrcxYM"
+  },
+  {
+    "name": "雲林縣大埤鄉農會",
+    "bank_code": "616",
+    "branch_code": "0089",
+    "site": "http:\/\/www.fast.org.tw\/p08\/"
+  },
+  {
+    "name": "雲林縣莿桐鄉農會",
+    "bank_code": "616",
+    "branch_code": "0090",
+    "site": "http:\/\/www.ctgo.org.tw\/"
+  },
+  {
+    "name": "嘉義市農會",
+    "bank_code": "617",
+    "branch_code": "0862",
+    "site": "http:\/\/cycfa.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODVcrQKjZmI62"
+  },
+  {
+    "name": "嘉義縣新港鄉農會",
+    "bank_code": "617",
+    "branch_code": "0817",
+    "site": "http:\/\/www.fast.org.tw\/q08\/"
+  },
+  {
+    "name": "嘉義縣東石鄉農會",
+    "bank_code": "617",
+    "branch_code": "0079",
+    "site": "http:\/\/www.dongshi.org.tw\/"
+  },
+  {
+    "name": "嘉義縣六腳鄉農會",
+    "bank_code": "617",
+    "branch_code": "0806",
+    "site": "http:\/\/www.fast.org.tw\/q15\/"
+  },
+  {
+    "name": "嘉義縣梅山鄉農會",
+    "bank_code": "617",
+    "branch_code": "0150",
+    "site": "http:\/\/www.msfa.com.tw\/"
+  },
+  {
+    "name": "嘉義縣竹崎地區農會",
+    "bank_code": "617",
+    "branch_code": "0149",
+    "site": "http:\/\/www.fast.org.tw\/q11\/index.html"
+  },
+  {
+    "name": "嘉義縣水上鄉農會",
+    "bank_code": "617",
+    "branch_code": "0116",
+    "site": "http:\/\/www.waterfa.org.tw\/"
+  },
+  {
+    "name": "嘉義縣鹿草鄉農會",
+    "bank_code": "617",
+    "branch_code": "0091",
+    "site": "http:\/\/www.lufa.org.tw\/"
+  },
+  {
+    "name": "嘉義縣義竹鄉農會",
+    "bank_code": "617",
+    "branch_code": "0080",
+    "site": "http:\/\/www.yijhu.org.tw\/"
+  },
+  {
+    "name": "嘉義縣番路鄉農會",
+    "bank_code": "617",
+    "branch_code": "0138",
+    "site": "http:\/\/www.fanlu.org.tw\/"
+  },
+  {
+    "name": "嘉義縣溪口鄉農會",
+    "bank_code": "617",
+    "branch_code": "0068",
+    "site": "http:\/\/www.fast.org.tw\/q09\/"
+  },
+  {
+    "name": "嘉義縣布袋鎮農會",
+    "bank_code": "617",
+    "branch_code": "0035",
+    "site": "http:\/\/www.bdfa.org.tw\/"
+  },
+  {
+    "name": "嘉義縣民雄鄉農會",
+    "bank_code": "617",
+    "branch_code": "0057",
+    "site": "http:\/\/www.minsyong.org.tw\/"
+  },
+  {
+    "name": "嘉義縣朴子市農會",
+    "bank_code": "617",
+    "branch_code": "0024",
+    "site": "http:\/\/www.fast.org.tw\/q03\/index.html"
+  },
+  {
+    "name": "嘉義縣太保市農會",
+    "bank_code": "617",
+    "branch_code": "0105",
+    "site": "http:\/\/www.taipo.org.tw\/"
+  },
+  {
+    "name": "嘉義縣大林鎮農會",
+    "bank_code": "617",
+    "branch_code": "0046",
+    "site": "http:\/\/dalin.naffic.org.tw\/default2.aspx"
+  },
+  {
+    "name": "臺南市六甲區農會",
+    "bank_code": "618",
+    "branch_code": "0139",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODagOg5syknz4"
+  },
+  {
+    "name": "臺南市楠西區農會",
+    "bank_code": "618",
+    "branch_code": "1402",
+    "site": "http:\/\/www.nan-shi.org.tw\/"
+  },
+  {
+    "name": "臺南市西港區農會",
+    "bank_code": "618",
+    "branch_code": "0162",
+    "site": "http:\/\/www.sgfa.org.tw\/"
+  },
+  {
+    "name": "臺南市永康區農會",
+    "bank_code": "618",
+    "branch_code": "0324",
+    "site": "http:\/\/www.farm.org.tw\/main.asp"
+  },
+  {
+    "name": "臺南市歸仁區農會",
+    "bank_code": "618",
+    "branch_code": "0298",
+    "site": "http:\/\/gueiren.naffic.org.tw\/default2.aspx?EpfJdId9UuDNTO91R3HUNhrQ1vcFDdRa"
+  },
+  {
+    "name": "臺南市柳營區農會",
+    "bank_code": "618",
+    "branch_code": "0092",
+    "site": "http:\/\/leoyen.naffic.org.tw"
+  },
+  {
+    "name": "臺南市善化區農會",
+    "bank_code": "618",
+    "branch_code": "0081",
+    "site": "http:\/\/www.fast.org.tw\/r08\/"
+  },
+  {
+    "name": "臺南市佳里區農會",
+    "bank_code": "618",
+    "branch_code": "0069",
+    "site": "http:\/\/www.fast.org.tw\/r06\/"
+  },
+  {
+    "name": "臺南市鹽水區農會",
+    "bank_code": "618",
+    "branch_code": "0036",
+    "site": "http:\/\/www.yesfarm.org.tw\/"
+  },
+  {
+    "name": "臺南市新營區農會",
+    "bank_code": "618",
+    "branch_code": "0025",
+    "site": "http:\/\/www.sinying.org.tw\/"
+  },
+  {
+    "name": "臺南市玉井區農會",
+    "bank_code": "618",
+    "branch_code": "0243",
+    "site": "http:\/\/www.ycfa.org.tw\/"
+  },
+  {
+    "name": "臺南市將軍區農會",
+    "bank_code": "618",
+    "branch_code": "0184",
+    "site": "http:\/\/www.jiangjun.com.tw\/"
+  },
+  {
+    "name": "臺南市北門區農會",
+    "bank_code": "618",
+    "branch_code": "0195",
+    "site": "http:\/\/www.beimen.org.tw\/main.asp"
+  },
+  {
+    "name": "臺南市山上區農會",
+    "bank_code": "618",
+    "branch_code": "0232",
+    "site": "http:\/\/www.shanshang.org.tw\/"
+  },
+  {
+    "name": "高雄市岡山區農會",
+    "bank_code": "619",
+    "branch_code": "0026",
+    "site": "http:\/\/www.gsfa.org.tw\/"
+  },
+  {
+    "name": "高雄市梓官區農會",
+    "bank_code": "619",
+    "branch_code": "0141",
+    "site": "http:\/\/www.zgfa.org.tw\/"
+  },
+  {
+    "name": "高雄市旗山區農會",
+    "bank_code": "619",
+    "branch_code": "0037",
+    "site": "http:\/\/chisun.myweb.hinet.net\/"
+  },
+  {
+    "name": "高雄市內門區農會",
+    "bank_code": "619",
+    "branch_code": "1115",
+    "site": "http:\/\/neimen.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODR80DOoBJ5BN"
+  },
+  {
+    "name": "高雄市鳥松區農會",
+    "bank_code": "619",
+    "branch_code": "1089",
+    "site": ""
+  },
+  {
+    "name": "高雄市六龜區農會",
+    "bank_code": "619",
+    "branch_code": "0303",
+    "site": "http:\/\/www.liukuei.org.tw\/"
+  },
+  {
+    "name": "高雄市甲仙地區農會",
+    "bank_code": "619",
+    "branch_code": "0255",
+    "site": "http:\/\/www.jxfa.org.tw\/"
+  },
+  {
+    "name": "高雄市杉林區農會",
+    "bank_code": "619",
+    "branch_code": "0244",
+    "site": "http:\/\/shanlin.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODR86lrwo7vko"
+  },
+  {
+    "name": "高雄市大社區農會",
+    "bank_code": "619",
+    "branch_code": "0222",
+    "site": "http:\/\/www.fast.org.tw\/s24\/"
+  },
+  {
+    "name": "高雄市仁武區農會",
+    "bank_code": "619",
+    "branch_code": "0211",
+    "site": "http:\/\/www.rwfa.org.tw\/"
+  },
+  {
+    "name": "高雄市大寮區農會",
+    "bank_code": "619",
+    "branch_code": "0196",
+    "site": ""
+  },
+  {
+    "name": "高雄市林園區農會",
+    "bank_code": "619",
+    "branch_code": "0185",
+    "site": "http:\/\/www.fast.org.tw\/s20\/"
+  },
+  {
+    "name": "高雄市大樹區農會",
+    "bank_code": "619",
+    "branch_code": "1104",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDNxO/lymW0E7BvaKz5x8BQ"
+  },
+  {
+    "name": "高雄市永安區農會",
+    "bank_code": "619",
+    "branch_code": "0130",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuA2OTk3x3xRf+cphDnPWj4D"
+  },
+  {
+    "name": "高雄市阿蓮區農會",
+    "bank_code": "619",
+    "branch_code": "0082",
+    "site": "http:\/\/www.alfa.org.tw\/"
+  },
+  {
+    "name": "高雄市美濃區農會",
+    "bank_code": "619",
+    "branch_code": "0048",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDNxO/lymW0EzaCOKXkAUBB"
+  },
+  {
+    "name": "高雄市田寮區農會",
+    "bank_code": "619",
+    "branch_code": "0071",
+    "site": "http:\/\/www.fast.org.tw\/s07\/"
+  },
+  {
+    "name": "高雄市燕巢區農會",
+    "bank_code": "619",
+    "branch_code": "0060",
+    "site": "http:\/\/www.yenfa.org.tw\/"
+  },
+  {
+    "name": "高雄市橋頭區農會",
+    "bank_code": "619",
+    "branch_code": "0059",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODYNjZDxxz8TI"
+  },
+  {
+    "name": "高雄市彌陀區農會",
+    "bank_code": "619",
+    "branch_code": "0129",
+    "site": ""
+  },
+  {
+    "name": "高雄市路竹區農會",
+    "bank_code": "619",
+    "branch_code": "0093",
+    "site": "http:\/\/www.lujhu.org.tw\/"
+  },
+  {
+    "name": "高雄市湖內區農會",
+    "bank_code": "619",
+    "branch_code": "0107",
+    "site": "http:\/\/www.hunei.org.tw\/"
+  },
+  {
+    "name": "高雄市鳳山區農會",
+    "bank_code": "619",
+    "branch_code": "0015",
+    "site": "http:\/\/www.fsfa.org.tw\/"
+  },
+  {
+    "name": "高雄市茄萣區農會",
+    "bank_code": "619",
+    "branch_code": "0118",
+    "site": "http:\/\/www.ks-cdfa.org.tw\/"
+  },
+  {
+    "name": "屏東縣車城地區農會",
+    "bank_code": "620",
+    "branch_code": "0879",
+    "site": "http:\/\/www.ccfarmer.org.tw\/"
+  },
+  {
+    "name": "屏東縣南州地區農會",
+    "bank_code": "620",
+    "branch_code": "0189",
+    "site": "http:\/\/www.fast.org.tw\/t18\/"
+  },
+  {
+    "name": "屏東縣琉球鄉農會",
+    "bank_code": "620",
+    "branch_code": "0204",
+    "site": "http:\/\/www.fast.org.tw\/t21\/"
+  },
+  {
+    "name": "屏東縣滿州鄉農會",
+    "bank_code": "620",
+    "branch_code": "0215",
+    "site": ""
+  },
+  {
+    "name": "屏東縣枋山地區農會",
+    "bank_code": "620",
+    "branch_code": "0259",
+    "site": "http:\/\/www.mango.org.tw\/default.asp"
+  },
+  {
+    "name": "屏東縣屏東市農會",
+    "bank_code": "620",
+    "branch_code": "0868",
+    "site": "http:\/\/www.ptcfa.org.tw\/"
+  },
+  {
+    "name": "屏東縣竹田鄉農會",
+    "bank_code": "620",
+    "branch_code": "0905",
+    "site": "http:\/\/www.jtfa.org.tw\/"
+  },
+  {
+    "name": "屏東縣農會",
+    "bank_code": "620",
+    "branch_code": "0880",
+    "site": "http:\/\/www.county.com.tw\/index.aspx?shop=fwres3030&t=main"
+  },
+  {
+    "name": "屏東縣枋寮地區農會",
+    "bank_code": "620",
+    "branch_code": "0891",
+    "site": "http:\/\/www.flfa.org.tw\/"
+  },
+  {
+    "name": "屏東縣九如鄉農會",
+    "bank_code": "620",
+    "branch_code": "0086",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuA2OTk3x3xRfxLpAaAC8Mf3"
+  },
+  {
+    "name": "屏東縣萬丹鄉農會",
+    "bank_code": "620",
+    "branch_code": "0916",
+    "site": "http:\/\/www.pwfa.org.tw\/main.asp"
+  },
+  {
+    "name": "屏東縣長治鄉農會",
+    "bank_code": "620",
+    "branch_code": "0927",
+    "site": ""
+  },
+  {
+    "name": "屏東縣林邊鄉農會",
+    "bank_code": "620",
+    "branch_code": "0938",
+    "site": "http:\/\/www.cow.org.tw\/"
+  },
+  {
+    "name": "屏東縣佳冬鄉農會",
+    "bank_code": "620",
+    "branch_code": "0949",
+    "site": "http:\/\/www.jdfa.org.tw\/"
+  },
+  {
+    "name": "屏東縣高樹鄉農會",
+    "bank_code": "620",
+    "branch_code": "0961",
+    "site": "http:\/\/www.pthitree.com.tw\/index.asp?au_id=4&sub_id=9"
+  },
+  {
+    "name": "屏東縣萬巒地區農會",
+    "bank_code": "620",
+    "branch_code": "0972",
+    "site": ""
+  },
+  {
+    "name": "屏東縣潮州鎮農會",
+    "bank_code": "620",
+    "branch_code": "0983",
+    "site": "http:\/\/www.chaujou.org.tw\/"
+  },
+  {
+    "name": "屏東縣新園鄉農會",
+    "bank_code": "620",
+    "branch_code": "0994",
+    "site": "http:\/\/www.xyfa.org.tw\/home.asp"
+  },
+  {
+    "name": "屏東縣里港鄉農會",
+    "bank_code": "620",
+    "branch_code": "0112",
+    "site": "http:\/\/www.lgfa.org.tw\/"
+  },
+  {
+    "name": "屏東縣崁頂鄉農會",
+    "bank_code": "620",
+    "branch_code": "0167",
+    "site": ""
+  },
+  {
+    "name": "屏東縣麟洛鄉農會",
+    "bank_code": "620",
+    "branch_code": "0075",
+    "site": "http:\/\/www.fast.org.tw\/t10\/"
+  },
+  {
+    "name": "屏東縣恆春鎮農會",
+    "bank_code": "620",
+    "branch_code": "0042",
+    "site": "http:\/\/www.hcfarm.org.tw\/"
+  },
+  {
+    "name": "屏東縣東港鎮農會",
+    "bank_code": "620",
+    "branch_code": "0031",
+    "site": "http:\/\/www.dgpa.org.tw\/"
+  },
+  {
+    "name": "花蓮縣富里鄉農會",
+    "bank_code": "621",
+    "branch_code": "0043",
+    "site": "http:\/\/www.fulifa.org.tw\/"
+  },
+  {
+    "name": "花蓮縣新秀地區農會",
+    "bank_code": "621",
+    "branch_code": "0098",
+    "site": ""
+  },
+  {
+    "name": "花蓮縣壽豐鄉農會",
+    "bank_code": "621",
+    "branch_code": "0032",
+    "site": "http:\/\/www.shoufong.org\/front\/bin\/home.phtml"
+  },
+  {
+    "name": "花蓮縣吉安鄉農會",
+    "bank_code": "621",
+    "branch_code": "0021",
+    "site": "http:\/\/www.ji-an.org.tw\/"
+  },
+  {
+    "name": "臺東縣池上鄉農會",
+    "bank_code": "622",
+    "branch_code": "0033",
+    "site": "http:\/\/www.csfa.org.tw\/"
+  },
+  {
+    "name": "臺東縣鹿野地區農會",
+    "bank_code": "622",
+    "branch_code": "0077",
+    "site": "http:\/\/www.luyeah.com.tw\/"
+  },
+  {
+    "name": "臺東縣東河鄉農會",
+    "bank_code": "622",
+    "branch_code": "0103",
+    "site": "http:\/\/v13.fast.org.tw\/"
+  },
+  {
+    "name": "臺東縣太麻里地區農會",
+    "bank_code": "622",
+    "branch_code": "0088",
+    "site": "http:\/\/tmlfa.ttmall.com.tw\/"
+  },
+  {
+    "name": "臺東縣關山鎮農會",
+    "bank_code": "622",
+    "branch_code": "0011",
+    "site": "http:\/\/www.ksfa.org.tw\/main.asp"
+  },
+  {
+    "name": "臺東縣成功鎮農會",
+    "bank_code": "622",
+    "branch_code": "0022",
+    "site": "http:\/\/chenkon.myweb.hinet.net\/"
+  },
+  {
+    "name": "臺東縣長濱鄉農會",
+    "bank_code": "622",
+    "branch_code": "0055",
+    "site": "http:\/\/cbfa.ttmall.com.tw\/"
+  },
+  {
+    "name": "臺東縣臺東地區農會",
+    "bank_code": "622",
+    "branch_code": "0066",
+    "site": "http:\/\/www.eastfa.org.tw\/index.asp"
+  },
+  {
+    "name": "澎湖縣農會",
+    "bank_code": "624",
+    "branch_code": "0013",
+    "site": "http:\/\/www.phfa.com.tw\/"
+  },
+  {
+    "name": "臺中市臺中地區農會",
+    "bank_code": "625",
+    "branch_code": "0014",
+    "site": "http:\/\/www.tccfa.org.tw\/_home\/index.htm"
+  },
+  {
+    "name": "福建省連江縣農會",
+    "bank_code": "627",
+    "branch_code": "0016",
+    "site": ""
+  },
+  {
+    "name": "彰化縣鹿港鎮農會",
+    "bank_code": "628",
+    "branch_code": "0017",
+    "site": "http:\/\/www.lukang.org.tw\/"
+  },
+  {
+    "name": "彰化縣和美鎮農會",
+    "bank_code": "629",
+    "branch_code": "0018",
+    "site": "http:\/\/www.fcic.org.tw\/510\/index.htm"
+  },
+  {
+    "name": "彰化縣溪湖鎮農會",
+    "bank_code": "631",
+    "branch_code": "0013",
+    "site": "http:\/\/www.sihufa.org.tw\/"
+  },
+  {
+    "name": "彰化縣田中鎮農會",
+    "bank_code": "632",
+    "branch_code": "0014",
+    "site": "http:\/\/www.fcic.org.tw\/590\/"
+  },
+  {
+    "name": "彰化縣北斗鎮農會",
+    "bank_code": "633",
+    "branch_code": "0015",
+    "site": "http:\/\/www.fcic.org.tw\/390\/"
+  },
+  {
+    "name": "彰化縣線西鄉農會",
+    "bank_code": "635",
+    "branch_code": "0017",
+    "site": "http:\/\/www.hsienhsi.com.tw\/"
+  },
+  {
+    "name": "彰化縣伸港鄉農會",
+    "bank_code": "636",
+    "branch_code": "0018",
+    "site": "http:\/\/www.fcic.org.tw\/500\/"
+  },
+  {
+    "name": "彰化縣花壇鄉農會",
+    "bank_code": "638",
+    "branch_code": "0010",
+    "site": "http:\/\/huatan.naffic.org.tw\/default2.aspx?EpfJdId9UuDNxO/lymW0E0NCP0dQlOCd"
+  },
+  {
+    "name": "彰化縣大村鄉農會",
+    "bank_code": "639",
+    "branch_code": "0011",
+    "site": "http:\/\/www.dacun-farmer.org.tw\/"
+  },
+  {
+    "name": "彰化縣社頭鄉農會",
+    "bank_code": "642",
+    "branch_code": "0017",
+    "site": "http:\/\/sheto.fast.org.tw\/"
+  },
+  {
+    "name": "彰化縣二水鄉農會",
+    "bank_code": "643",
+    "branch_code": "0018",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDNTO91R3HUNns7oSgLns0U"
+  },
+  {
+    "name": "彰化縣大城鄉農會",
+    "bank_code": "646",
+    "branch_code": "0011",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODWcPttdNLk1y"
+  },
+  {
+    "name": "彰化縣溪州鄉農會",
+    "bank_code": "647",
+    "branch_code": "0012",
+    "site": "http:\/\/www.fcic.org.tw\/580\/"
+  },
+  {
+    "name": "彰化縣埔鹽鄉農會",
+    "bank_code": "649",
+    "branch_code": "0014",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCJctf5vXgyGswXb5kTdqV4"
+  },
+  {
+    "name": "彰化縣福興鄉農會",
+    "bank_code": "650",
+    "branch_code": "0018",
+    "site": "http:\/\/www.ffa.com.tw\/ffa2012\/"
+  },
+  {
+    "name": "彰化縣彰化市農會",
+    "bank_code": "651",
+    "branch_code": "0019",
+    "site": "http:\/\/www.chctfa.org.tw\/main.asp"
+  },
+  {
+    "name": "雲林縣北港鎮農會",
+    "bank_code": "683",
+    "branch_code": "0010",
+    "site": "http:\/\/beigang.org.tw\/"
+  },
+  {
+    "name": "雲林縣土庫鎮農會",
+    "bank_code": "685",
+    "branch_code": "0012",
+    "site": "http:\/\/www.tuku.org.tw\/"
+  },
+  {
+    "name": "雲林縣東勢鄉農會",
+    "bank_code": "693",
+    "branch_code": "0013",
+    "site": ""
+  },
+  {
+    "name": "雲林縣水林鄉農會",
+    "bank_code": "696",
+    "branch_code": "0016",
+    "site": "http:\/\/www.7852605.com.tw\/about-us.html"
+  },
+  {
+    "name": "雲林縣元長鄉農會",
+    "bank_code": "697",
+    "branch_code": "0017",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuAsXUMmgmlARFfktXayHvv5"
+  },
+  {
+    "name": "雲林縣麥寮鄉農會",
+    "bank_code": "698",
+    "branch_code": "0018",
+    "site": "http:\/\/www.mai.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODc4eqoHmbAwu"
+  },
+  {
+    "name": "雲林縣林內鄉農會",
+    "bank_code": "699",
+    "branch_code": "0019",
+    "site": "http:\/\/www.linnei.org.tw\/"
+  },
+  {
+    "name": "中華郵政公司",
+    "bank_code": "700",
+    "branch_code": "0000",
+    "site": "http:\/\/www.post.gov.tw\/post\/internet\/index.jsp"
+  },
+  {
+    "name": "屏東縣內埔地區農會",
+    "bank_code": "749",
+    "branch_code": "0011",
+    "site": "http:\/\/www.neipufamer.org.tw\/"
+  },
+  {
+    "name": "香港商東亞銀行",
+    "bank_code": "750",
+    "branch_code": "000",
+    "site": "http:\/\/www.hkbea.com\/html\/en\/index.html"
+  },
+  {
+    "name": "美商摩根大通銀行",
+    "bank_code": "760",
+    "branch_code": "000",
+    "site": ""
+  },
+  {
+    "name": "桃園巿大溪區農會",
+    "bank_code": "762",
+    "branch_code": "0010",
+    "site": "http:\/\/dahshi.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿桃園區農會",
+    "bank_code": "763",
+    "branch_code": "0011",
+    "site": "http:\/\/uic.efarm.org.tw\/taoyuan\/"
+  },
+  {
+    "name": "桃園巿平鎮區農會",
+    "bank_code": "764",
+    "branch_code": "0012",
+    "site": "http:\/\/pingjen.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿楊梅區農會",
+    "bank_code": "765",
+    "branch_code": "0013",
+    "site": "http:\/\/yangmei.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿大園區農會",
+    "bank_code": "766",
+    "branch_code": "0014",
+    "site": "http:\/\/dayuan.efarm.org.tw\/\/"
+  },
+  {
+    "name": "桃園巿蘆竹區農會",
+    "bank_code": "767",
+    "branch_code": "0015",
+    "site": "http:\/\/luchu.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿龜山區農會",
+    "bank_code": "768",
+    "branch_code": "0016",
+    "site": "http:\/\/uic.efarm.org.tw\/gueisan\/"
+  },
+  {
+    "name": "桃園巿八德區農會",
+    "bank_code": "769",
+    "branch_code": "0017",
+    "site": "http:\/\/bade.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿新屋區農會",
+    "bank_code": "770",
+    "branch_code": "0011",
+    "site": "http:\/\/www.hsinwu.com.tw\/"
+  },
+  {
+    "name": "桃園巿龍潭區農會",
+    "bank_code": "771",
+    "branch_code": "0012",
+    "site": "http:\/\/lungtan.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿復興區農會",
+    "bank_code": "772",
+    "branch_code": "0013",
+    "site": "http:\/\/fushin.efarm.org.tw\/"
+  },
+  {
+    "name": "桃園巿觀音區農會",
+    "bank_code": "773",
+    "branch_code": "0014",
+    "site": "http:\/\/guanin.efarm.org.tw\/"
+  },
+  {
+    "name": "新北市土城區農會",
+    "bank_code": "775",
+    "branch_code": "0016",
+    "site": "http:\/\/www.twtcfa.org\/"
+  },
+  {
+    "name": "新北市三重區農會",
+    "bank_code": "776",
+    "branch_code": "0017",
+    "site": "http:\/\/www.sfa.idv.tw\/"
+  },
+  {
+    "name": "新北市中和地區農會",
+    "bank_code": "777",
+    "branch_code": "0018",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/default.aspx?TfaID=11"
+  },
+  {
+    "name": "新北市淡水區農會",
+    "bank_code": "778",
+    "branch_code": "0019",
+    "site": "http:\/\/www.tsfa.tw\/"
+  },
+  {
+    "name": "新北市樹林區農會",
+    "bank_code": "779",
+    "branch_code": "0010",
+    "site": "http:\/\/www.shulinfarm.org.tw\/"
+  },
+  {
+    "name": "新加坡商星展銀行",
+    "bank_code": "780",
+    "branch_code": "000",
+    "site": "http:\/\/www.dbs.com.tw\/index-zh\/default.page"
+  },
+  {
+    "name": "新北市鶯歌區農會",
+    "bank_code": "780",
+    "branch_code": "0014",
+    "site": "http:\/\/www.yingge.org.tw\/"
+  },
+  {
+    "name": "新北市三峽區農會",
+    "bank_code": "781",
+    "branch_code": "0015",
+    "site": "http:\/\/www.shefa.org.tw\/"
+  },
+  {
+    "name": "新北市蘆洲區農會",
+    "bank_code": "785",
+    "branch_code": "0019",
+    "site": "http:\/\/www.lujhou-farmers.com\/index.php"
+  },
+  {
+    "name": "新北市五股區農會",
+    "bank_code": "786",
+    "branch_code": "0010",
+    "site": "http:\/\/wfa14.naffic.org.tw\/default2.aspx?EpfJdId9UuBtAWQNka1451IfZLJzheXc"
+  },
+  {
+    "name": "新北市林口區農會",
+    "bank_code": "787",
+    "branch_code": "0011",
+    "site": ""
+  },
+  {
+    "name": "新北市泰山區農會",
+    "bank_code": "788",
+    "branch_code": "0012",
+    "site": "http:\/\/taishan.web66.com.tw\/"
+  },
+  {
+    "name": "新北市坪林區農會",
+    "bank_code": "789",
+    "branch_code": "0013",
+    "site": "http:\/\/pinglin.tpcgo.org.tw\/web\/SG?pageID=27831&FP=49590"
+  },
+  {
+    "name": "新北市八里區農會",
+    "bank_code": "790",
+    "branch_code": "0017",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=20"
+  },
+  {
+    "name": "新北市金山地區農會",
+    "bank_code": "791",
+    "branch_code": "0018",
+    "site": "http:\/\/www.kingsan.com.tw\/"
+  },
+  {
+    "name": "新北市瑞芳地區農會",
+    "bank_code": "792",
+    "branch_code": "0019",
+    "site": "http:\/\/www.rueifangfa.org.tw\/"
+  },
+  {
+    "name": "新北市新店地區農會",
+    "bank_code": "793",
+    "branch_code": "0010",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=07"
+  },
+  {
+    "name": "新北市深坑區鄉農會",
+    "bank_code": "795",
+    "branch_code": "0012",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=17"
+  },
+  {
+    "name": "新北市石碇區農會",
+    "bank_code": "796",
+    "branch_code": "0013",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=26"
+  },
+  {
+    "name": "新北市平溪區農會",
+    "bank_code": "797",
+    "branch_code": "0014",
+    "site": "http:\/\/psfa.org.tw\/"
+  },
+  {
+    "name": "新北市石門區農會",
+    "bank_code": "798",
+    "branch_code": "0015",
+    "site": ""
+  },
+  {
+    "name": "新北市三芝區農會",
+    "bank_code": "799",
+    "branch_code": "0016",
+    "site": "http:\/\/www.3g.org.tw\/"
+  },
+  {
+    "name": "聯邦銀行",
+    "bank_code": "803",
+    "branch_code": "0000",
+    "site": "http:\/\/www.ubot.com.tw\/"
+  },
+  {
+    "name": "遠東銀行",
+    "bank_code": "805",
+    "branch_code": "0000",
+    "site": "https:\/\/www.feib.com.tw\/"
+  },
+  {
+    "name": "元大銀行",
+    "bank_code": "806",
+    "branch_code": "0000",
+    "site": "https:\/\/www.yuantabank.com.tw\/bank\/"
+  },
+  {
+    "name": "永豐銀行",
+    "bank_code": "807",
+    "branch_code": "0000",
+    "site": "http:\/\/www.banksinopac.com.tw\/bsp\/index\/index.asp"
+  },
+  {
+    "name": "玉山銀行",
+    "bank_code": "808",
+    "branch_code": "0000",
+    "site": "http:\/\/www.esunbank.com.tw\/"
+  },
+  {
+    "name": "凱基銀行",
+    "bank_code": "809",
+    "branch_code": "0000",
+    "site": "https:\/\/www.kgibank.com\/"
+  },
+  {
+    "name": "星展(台灣)銀行",
+    "bank_code": "810",
+    "branch_code": "0000",
+    "site": "http:\/\/www.dbs.com.tw\/index-zh\/default.page"
+  },
+  {
+    "name": "台新銀行",
+    "bank_code": "812",
+    "branch_code": "0000",
+    "site": "https:\/\/www.taishinbank.com.tw\/TS\/TS02\/"
+  },
+  {
+    "name": "日盛國際銀行",
+    "bank_code": "815",
+    "branch_code": "0000",
+    "site": "http:\/\/www.jihsunbank.com.tw\/"
+  },
+  {
+    "name": "安泰銀行",
+    "bank_code": "816",
+    "branch_code": "0000",
+    "site": "http:\/\/www.entiebank.com.tw\/"
+  },
+  {
+    "name": "法商法國巴黎銀行",
+    "bank_code": "820",
+    "branch_code": "000",
+    "site": "http:\/\/www.bnpparibas.com.tw\/cn\/"
+  },
+  {
+    "name": "中國信託銀行",
+    "bank_code": "822",
+    "branch_code": "0000",
+    "site": "https:\/\/www.ctbcbank.com\/CTCBPortalWeb\/appmanager\/ebank\/rb"
+  },
+  {
+    "name": "將來銀行",
+    "bank_code": "823",
+    "branch_code": "0000",
+    "site": "https:\/\/www.nextbank.com.tw\/"
+  },
+  {
+    "name": "連線銀行",
+    "bank_code": "824",
+    "branch_code": "0000",
+    "site": "https:\/\/www.linebank.com.tw\/"
+  },
+  {
+    "name": "樂天國際銀行",
+    "bank_code": "826",
+    "branch_code": "0000",
+    "site": "https:\/\/www.rakuten-bank.com.tw\/"
+  },
+  {
+    "name": "英商渣打銀行",
+    "bank_code": "830",
+    "branch_code": "000",
+    "site": "https:\/\/www.sc.com\/tw\/"
+  },
+  {
+    "name": "新加坡華僑銀行",
+    "bank_code": "850",
+    "branch_code": "000",
+    "site": "http:\/\/www.ocbc.com.sg\/group\/Group-Home.html"
+  },
+  {
+    "name": "嘉義縣中埔鄉農會",
+    "bank_code": "860",
+    "branch_code": "0015",
+    "site": "http:\/\/www.fcic.org.tw\/670\/index.htm"
+  },
+  {
+    "name": "法商東方匯理銀行",
+    "bank_code": "860",
+    "branch_code": "000",
+    "site": ""
+  },
+  {
+    "name": "嘉義縣阿里山鄉農會",
+    "bank_code": "866",
+    "branch_code": "0011",
+    "site": "http:\/\/www.alishanfm.com.tw\/"
+  },
+  {
+    "name": "臺中市東勢區農會",
+    "bank_code": "868",
+    "branch_code": "0013",
+    "site": "http:\/\/www.tsfa.org.tw\/"
+  },
+  {
+    "name": "臺中市清水區農會",
+    "bank_code": "869",
+    "branch_code": "0014",
+    "site": "http:\/\/www.fcic.org.tw\/450\/"
+  },
+  {
+    "name": "臺中市梧棲區農會",
+    "bank_code": "870",
+    "branch_code": "0018",
+    "site": "http:\/\/www.wctfa.org.tw\/default2.aspx?EpfJdId9UuBtAWQNka145xnN2ZQYHuQL"
+  },
+  {
+    "name": "臺中市大甲區農會",
+    "bank_code": "871",
+    "branch_code": "0019",
+    "site": "http:\/\/www.tachia.org.tw\/"
+  },
+  {
+    "name": "臺中市沙鹿區農會",
+    "bank_code": "872",
+    "branch_code": "0010",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCJctf5vXgyGukgj2UO7wVv"
+  },
+  {
+    "name": "臺中市霧峰區農會",
+    "bank_code": "874",
+    "branch_code": "0012",
+    "site": "http:\/\/www.wffa.org.tw\/"
+  },
+  {
+    "name": "臺中市太平區農會",
+    "bank_code": "875",
+    "branch_code": "0013",
+    "site": "http:\/\/www.fcic.org.tw\/350\/index.htm"
+  },
+  {
+    "name": "臺中市烏日區農會",
+    "bank_code": "876",
+    "branch_code": "0014",
+    "site": "http:\/\/www.fcic.org.tw\/480\/"
+  },
+  {
+    "name": "臺中市后里區農會",
+    "bank_code": "877",
+    "branch_code": "0015",
+    "site": "http:\/\/www.houlifa.org.tw\/"
+  },
+  {
+    "name": "臺中市大雅區農會",
+    "bank_code": "878",
+    "branch_code": "0016",
+    "site": "http:\/\/www.dyfa.org.tw\/"
+  },
+  {
+    "name": "臺中市潭子區農會",
+    "bank_code": "879",
+    "branch_code": "0017",
+    "site": "http:\/\/tanzih.org.tw\/index-all.htm"
+  },
+  {
+    "name": "臺中市石岡區農會",
+    "bank_code": "880",
+    "branch_code": "0011",
+    "site": "http:\/\/www.skhfa.org.tw\/"
+  },
+  {
+    "name": "臺中市新社區農會",
+    "bank_code": "881",
+    "branch_code": "0012",
+    "site": "http:\/\/www.ssfa.com.tw\/default2.aspx?EpfJdId9UuCM43XlWesODdishmL3WQld"
+  },
+  {
+    "name": "臺中市大肚區農會",
+    "bank_code": "882",
+    "branch_code": "0013",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCJctf5vXgyGuwkSXyrw4EV"
+  },
+  {
+    "name": "臺中市外埔區農會",
+    "bank_code": "883",
+    "branch_code": "0014",
+    "site": "http:\/\/www.waipu.web66.com.tw\/"
+  },
+  {
+    "name": "臺中市大安區農會",
+    "bank_code": "884",
+    "branch_code": "0015",
+    "site": "http:\/\/www.fcic.org.tw\/060\/index.htm"
+  },
+  {
+    "name": "臺中市龍井區農會",
+    "bank_code": "885",
+    "branch_code": "0016",
+    "site": "http:\/\/www.fcic.org.tw\/090\/"
+  },
+  {
+    "name": "臺中市和平區農會",
+    "bank_code": "886",
+    "branch_code": "0017",
+    "site": "http:\/\/www.agriculturalproduct.taichung.gov.tw\/Ass.asp?faid=21"
+  },
+  {
+    "name": "花蓮縣花蓮巿農會",
+    "bank_code": "891",
+    "branch_code": "0015",
+    "site": "http:\/\/www.hcfa.org.tw\/"
+  },
+  {
+    "name": "花蓮縣瑞穗鄉農會",
+    "bank_code": "895",
+    "branch_code": "0019",
+    "site": "http:\/\/www.rsfa.org.tw\/"
+  },
+  {
+    "name": "花蓮縣玉溪地區農會",
+    "bank_code": "896",
+    "branch_code": "0010",
+    "site": ""
+  },
+  {
+    "name": "花蓮縣鳳榮地區農會",
+    "bank_code": "897",
+    "branch_code": "0011",
+    "site": "http:\/\/www.frfa.com.tw\/default2.aspx?EpfJdId9UuCM43XlWesODTKMp4pYGHxW"
+  },
+  {
+    "name": "花蓮縣光豐地區農會",
+    "bank_code": "898",
+    "branch_code": "0012",
+    "site": ""
+  },
+  {
+    "name": "臺中市大里區農會",
+    "bank_code": "901",
+    "branch_code": "0015",
+    "site": "http:\/\/www.ttfa.com.tw\/"
+  },
+  {
+    "name": "苗栗縣苗栗市農會",
+    "bank_code": "902",
+    "branch_code": "0016",
+    "site": "http:\/\/www.miaoli.org.tw\/main.php"
+  },
+  {
+    "name": "新北市汐止區農會",
+    "bank_code": "903",
+    "branch_code": "0017",
+    "site": "http:\/\/www.hfa.com.tw\/"
+  },
+  {
+    "name": "新北市新莊區農會",
+    "bank_code": "904",
+    "branch_code": "0018",
+    "site": "http:\/\/www.scf.org.tw\/"
+  },
+  {
+    "name": "苗栗縣頭份市農會",
+    "bank_code": "906",
+    "branch_code": "0010",
+    "site": "http:\/\/toufen-fa.org.tw\/index.php"
+  },
+  {
+    "name": "苗栗縣竹南鎮農會",
+    "bank_code": "907",
+    "branch_code": "0011",
+    "site": "http:\/\/www.chunan.org.tw\/"
+  },
+  {
+    "name": "苗栗縣通霄鎮農會",
+    "bank_code": "908",
+    "branch_code": "0012",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODVwwZeEY1juq"
+  },
+  {
+    "name": "苗栗縣苑裡鎮農會",
+    "bank_code": "909",
+    "branch_code": "0013",
+    "site": "http:\/\/www.yuanli.org.tw\/"
+  },
+  {
+    "name": "宜蘭縣冬山鄉農會",
+    "bank_code": "912",
+    "branch_code": "0019",
+    "site": "http:\/\/www.dsfa.org.tw\/index1.aspx"
+  },
+  {
+    "name": "苗栗縣後龍鎮農會",
+    "bank_code": "913",
+    "branch_code": "0010",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=69"
+  },
+  {
+    "name": "苗栗縣卓蘭鎮農會",
+    "bank_code": "914",
+    "branch_code": "0011",
+    "site": "http:\/\/www.choulan.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODfKERMCNoUm+"
+  },
+  {
+    "name": "苗栗縣西湖鄉農會",
+    "bank_code": "915",
+    "branch_code": "0012",
+    "site": "http:\/\/www.shihwu.org.tw\/default2.aspx?EpfJdId9UuBIv3eVWA4HDbN3pe55PHCs"
+  },
+  {
+    "name": "南投縣草屯鎮農會",
+    "bank_code": "916",
+    "branch_code": "0013",
+    "site": "http:\/\/www.tsaotun.org.tw\/"
+  },
+  {
+    "name": "苗栗縣公館鄉農會",
+    "bank_code": "917",
+    "branch_code": "0014",
+    "site": "http:\/\/www.kkfa.org\/"
+  },
+  {
+    "name": "苗栗縣三義鄉農會",
+    "bank_code": "919",
+    "branch_code": "0016",
+    "site": "http:\/\/www.sanyi.org.tw\/"
+  },
+  {
+    "name": "瑞士商瑞士銀行",
+    "bank_code": "920",
+    "branch_code": "000",
+    "site": "http:\/\/www.ubs.com\/tw\/en.html"
+  },
+  {
+    "name": "苗栗縣造橋鄉農會",
+    "bank_code": "920",
+    "branch_code": "0010",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuDNTO91R3HUNvz1uoWargmk"
+  },
+  {
+    "name": "苗栗縣南庄鄉農會",
+    "bank_code": "921",
+    "branch_code": "0011",
+    "site": "http:\/\/823155.org.tw\/"
+  },
+  {
+    "name": "臺南市臺南地區農會",
+    "bank_code": "922",
+    "branch_code": "0012",
+    "site": "http:\/\/www.naffic.org.tw\/"
+  },
+  {
+    "name": "苗栗縣獅潭鄉農會",
+    "bank_code": "923",
+    "branch_code": "0013",
+    "site": "http:\/\/www.naffic.org.tw\/default2.aspx?EpfJdId9UuCM43XlWesODRESTitmh7fO"
+  },
+  {
+    "name": "苗栗縣頭屋鄉農會",
+    "bank_code": "924",
+    "branch_code": "0014",
+    "site": "http:\/\/www.touwufa.org.tw\/tu01_news.htm"
+  },
+  {
+    "name": "苗栗縣三灣鄉農會",
+    "bank_code": "925",
+    "branch_code": "0015",
+    "site": "http:\/\/www.sanwan.org.tw\/aboutus.php"
+  },
+  {
+    "name": "苗栗縣大湖地區農會",
+    "bank_code": "926",
+    "branch_code": "0016",
+    "site": "http:\/\/www.dahufarm.org.tw\/"
+  },
+  {
+    "name": "新北市板橋區農會",
+    "bank_code": "928",
+    "branch_code": "0018",
+    "site": "http:\/\/www.pcfarm.org.tw\/"
+  },
+  {
+    "name": "新竹縣關西鎮農會",
+    "bank_code": "929",
+    "branch_code": "0019",
+    "site": "http:\/\/www.kuanhsi.org.tw\/index.php"
+  },
+  {
+    "name": "荷商安智銀行",
+    "bank_code": "930",
+    "branch_code": "000",
+    "site": "http:\/\/www.ing.com\/en.htm"
+  },
+  {
+    "name": "新竹縣新埔鎮農會",
+    "bank_code": "930",
+    "branch_code": "0013",
+    "site": "http:\/\/www.hpm.org.tw\/"
+  },
+  {
+    "name": "新竹縣竹北市農會",
+    "bank_code": "931",
+    "branch_code": "0014",
+    "site": "http:\/\/www.nfa.org.tw\/fa\/63\/html\/movie.htm"
+  },
+  {
+    "name": "新竹縣湖口鄉農會",
+    "bank_code": "932",
+    "branch_code": "0015",
+    "site": "http:\/\/www.nfa.org.tw\/farmers\/Default.aspx?TfaID=58"
+  },
+  {
+    "name": "新竹縣芎林鄉農會",
+    "bank_code": "933",
+    "branch_code": "0016",
+    "site": "http:\/\/www.clfa.org.tw\/"
+  },
+  {
+    "name": "新竹縣寶山鄉農會",
+    "bank_code": "934",
+    "branch_code": "0017",
+    "site": "http:\/\/www.bss.org.tw\/"
+  },
+  {
+    "name": "新竹縣峨眉鄉農會",
+    "bank_code": "935",
+    "branch_code": "0018",
+    "site": "http:\/\/www.ems.org.tw\/"
+  },
+  {
+    "name": "新竹縣北埔鄉農會",
+    "bank_code": "936",
+    "branch_code": "0019",
+    "site": "http:\/\/www.bps.org.tw\/"
+  },
+  {
+    "name": "新竹縣竹東地區農會",
+    "bank_code": "937",
+    "branch_code": "0010",
+    "site": "http:\/\/www.cdfa.org.tw\/"
+  },
+  {
+    "name": "新竹縣橫山地區農會",
+    "bank_code": "938",
+    "branch_code": "0011",
+    "site": "http:\/\/www.hsn.org.tw\/dyna\/webs\/index.php?account=hsn"
+  },
+  {
+    "name": "新竹市農會",
+    "bank_code": "940",
+    "branch_code": "0016",
+    "site": "http:\/\/www.hcfa.com.tw\/php\/index.php"
+  },
+  {
+    "name": "彰化縣田尾鄉農會",
+    "bank_code": "953",
+    "branch_code": "0012",
+    "site": "http:\/\/www.fcic.org.tw\/380\/"
+  },
+  {
+    "name": "美商富國銀行",
+    "bank_code": "970",
+    "branch_code": "000",
+    "site": "https:\/\/www.wellsfargo.com\/"
+  },
+  {
+    "name": "日商三菱日聯銀行",
+    "bank_code": "980",
+    "branch_code": "000",
+    "site": "http:\/\/www.btm.co.jp\/"
+  },
+  {
+    "name": "臺北市北投區農會",
+    "bank_code": "984",
+    "branch_code": "0012",
+    "site": "http:\/\/www.btfa.tw\/"
+  },
+  {
+    "name": "臺北市士林區農會",
+    "bank_code": "985",
+    "branch_code": "0013",
+    "site": "http:\/\/www.slfa.org.tw\/"
+  },
+  {
+    "name": "臺北市內湖區農會",
+    "bank_code": "986",
+    "branch_code": "0014",
+    "site": ""
+  },
+  {
+    "name": "臺北市南港區農會",
+    "bank_code": "987",
+    "branch_code": "0015",
+    "site": "http:\/\/www.nkfa.org.tw\/"
+  },
+  {
+    "name": "臺北市木柵區農會",
+    "bank_code": "988",
+    "branch_code": "0016",
+    "site": "http:\/\/www.muzha.org.tw\/html\/index.asp"
+  },
+  {
+    "name": "臺北市景美區農會",
+    "bank_code": "989",
+    "branch_code": "0017",
+    "site": "http:\/\/www.jmfa.org.tw\/"
+  }
+]
